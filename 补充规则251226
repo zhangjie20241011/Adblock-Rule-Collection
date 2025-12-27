@@ -17,6 +17,7 @@ v.qq.com##.web-login-container
 !屏蔽Adguard联网检测导致激活失效的补充
 ||api-b.adguard.com
 ||api-d.adguard.com
+||api.adguard.org
 !以下为本仓库最全规则对于优腾爱规则修补
 @@||img.alicdn.com/imgextra/i3/O1CN01dvycc51fRQU4H4vN7_!!6000000004003-2-tps-59-39.png$domain=youku.com
 @@||img.alicdn.com/imgextra/i3/$domain=youku.com
